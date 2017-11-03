@@ -1,6 +1,6 @@
 require_relative 'spec_helper'
 require_relative '../lib/my_find.rb'
-
+ 
 describe "#my_find" do
   let(:collection) { (1..100).to_a }
 
